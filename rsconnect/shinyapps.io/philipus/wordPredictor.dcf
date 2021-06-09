@@ -1,0 +1,13 @@
+name: wordPredictor
+title: wordPredictor
+username:
+account: philipus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4245164
+bundleId: 4695750
+url: https://philipus.shinyapps.io/wordPredictor/
+when: 1623228932.19671
+lastSyncTime: 1623228932.19671
+asMultiple: FALSE
+asStatic: FALSE
